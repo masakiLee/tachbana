@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="组_176" data-name="组 176" transform="translate(-0.406 2)">
+    <rect id="矩形_67" data-name="矩形 67" class="cls-1" width="32" height="4" rx="2" transform="translate(0.406 -2)"/>
+    <rect id="矩形_68" data-name="矩形 68" class="cls-1" width="32" height="4" rx="2" transform="translate(0.406 26)"/>
+    <rect id="矩形_69" data-name="矩形 69" class="cls-1" width="32" height="4" rx="2" transform="translate(0.406 12)"/>
+  </g>
+</svg>
