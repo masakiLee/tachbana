@@ -24,7 +24,7 @@
       />
     </a>
   </header>
-  <div class="mt-4 mb-8 mb-md-9">
+  <div class="mt-4 mb-7 mb-md-9">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-10 banner">
@@ -36,7 +36,9 @@
           <h2 class="subtitle subtitleOne text-vertical bg-dark">
             その瞬間だけ
           </h2>
-          <h2 class="subtitle subtitleTwo text-vertical bg-dark">味わえる</h2>
+          <h2 class="subtitle subtitleTwo text-vertical bg-dark text-nowrap">
+            味わえる
+          </h2>
           <h2 class="subtitle subtitleThree text-vertical bg-dark">
             一期一会の逸品
           </h2>
@@ -72,9 +74,9 @@
               <div class="conceptMain">
                 <h2 class="concept-title text-vertical">橘鮨理念</h2>
               </div>
-              <h3 class="concept-text mt-5 ms-5 ms-md-7">
-                選用新鮮食材 最適合的調理方式 並以精美刀工 融合色彩
-                平衡呈現於盤上 享用美食同時 也能欣賞到精緻的藝術品
+              <h3 class="concept-text mt-5 ms-4 ms-md-7">
+                選用新鮮食材 最適合的調理方式 並以精美刀工 盛裝的器皿融合色彩
+                平衡呈現於盤上 享用美食同時 欣賞到精緻的藝術品
               </h3>
             </div>
           </div>
@@ -153,7 +155,7 @@
             <div class="menuMain py-6">
               <h2 class="menuTitle text-vertical mx-auto">美味菜單</h2>
               <h3 class="menuText text-center my-5">
-                橘鮨不僅提供美味的季節性魚類 也融入創意理念 透過巧手變成創意壽司
+                橘鮨提供美味的季節性魚類 也融入創意理念 透過巧手變成創意壽司
                 在享受美食的同時體驗 別樹一格的餐饗
               </h3>
               <button
@@ -256,7 +258,7 @@
     <section class="information py-5">
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center">
-          <div class="col-4 mb-4 mb-md-0">
+          <div class="col-md-4 mb-4 mb-md-0">
             <h2>
               <img
                 src="./assets/images/logo.svg"
@@ -265,8 +267,8 @@
               />
             </h2>
           </div>
-          <div class="col-8">
-            <ul class="informationList">
+          <div class="col-md-8">
+            <ul class="informationList px-4">
               <li class="mb-2">
                 <p class="informationListName">地址</p>
                 <p>新北市板橋區縣民大道一段22號</p>
@@ -330,7 +332,7 @@
     right: -20px;
     @media (max-width: 768px) {
       top: -48px;
-      right: 12px;
+      right: 16px;
     }
   }
   &Two {
@@ -339,9 +341,8 @@
     top: 96px;
     right: 36px;
     @media (max-width: 768px) {
-      top: 50%;
+      top: 48px;
       right: 66px;
-      transform: translateY(-50%);
     }
   }
   &Three {
@@ -351,7 +352,7 @@
     left: -24px;
     @media (max-width: 768px) {
       bottom: -48px;
-      left: 12px;
+      left: 16px;
     }
   }
 }
@@ -384,6 +385,9 @@
   &-text {
     word-break: keep-all;
     line-height: 64px;
+    @media (max-width: 768px) {
+      line-height: 48px;
+    }
   }
   li {
     width: 50%;
@@ -454,11 +458,17 @@
   .accordion-body {
     font-size: 20px;
     letter-spacing: 8px;
+    @media (max-width: 768px) {
+      font-size: 16px;
+    }
   }
   .accordion-button {
     letter-spacing: 4px;
     font-size: 20px;
     background-color: #1b1b1b;
+    @media (max-width: 768px) {
+      font-size: 16px;
+    }
   }
   &-list {
     color: #f25c05;
