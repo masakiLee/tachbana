@@ -4,6 +4,8 @@ body {
     line-height: 1.5;
     font-size: 24px;
     font-family: 'M PLUS Rounded 1c', sans-serif;
+    letter-spacing: 12px;
+    color: white;
 }
 
 img {
@@ -14,6 +16,11 @@ img {
 a {
     text-decoration: none;
     display: block;
+    color: white;
+}
+
+a:hover {
+    color: #F25C05;
 }
 
 ul {
@@ -29,5 +36,35 @@ h4,
 h5,
 h6,
 p {
+    font-size: 100%;
     margin: 0;
+    padding: 0;
+}
+
+:root {
+    --spacer: 16px
+}
+
+/* .my-9 {
+    margin: calc(var(--spacer) * 9) 0;
+} */
+
+.text-vertical {
+    writing-mode: vertical-lr;
+    padding: 16px 16px 8px 16px;
+    letter-spacing: 12px;
+}
+
+.bg-darkTwo {
+    background-color: #262626;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 20px;
+    }
+}
+
+.btn-outline-primary {
+    --bs-btn-hover-color: white;
 }
