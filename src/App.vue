@@ -167,7 +167,7 @@
             <div class="menuMain py-6">
               <h2 class="menuTitle text-vertical mx-auto">美味菜單</h2>
               <h3 class="menuText text-center my-5">
-                橘鮨不僅提供美味的季節性魚類 融入創意理念 透過巧手變成創意壽司
+                橘鮨不僅提供最時令的美味 融入創意理念 透過巧手變成創意壽司
                 在享受美食的同時體驗 別樹一格的餐饗
               </h3>
               <button
