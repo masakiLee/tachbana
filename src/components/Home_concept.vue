@@ -15,7 +15,7 @@ import conceptProImgFive from "../assets/images/conceptProImgFive.jpg";
             <div class="conceptMain">
               <h2 class="concept-title text-vertical">橘鮨理念</h2>
             </div>
-            <h3 class="concept-text mt-5 ms-4 ms-md-7">
+            <h3 class="concept-text mt-5 ms-3 ms-md-7">
               選用新鮮食材 最適合的調理方式 並以精美刀工 盛裝的器皿融合色彩
               平衡呈現於盤上 享用美食同時 欣賞到精緻的藝術品
             </h3>

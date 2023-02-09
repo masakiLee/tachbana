@@ -45,7 +45,7 @@ import footerVue from "./components/footerVue.vue";
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 5;
+  z-index: 8;
   background-color: #1b1b1b;
   &Name {
     display: none;
