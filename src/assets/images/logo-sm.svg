@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="48" viewBox="0 0 94 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 21px;
+        font-family: RoundedMplus1c-Regular, 'Rounded Mplus \31 c';
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-linejoin: round;
+        stroke-miterlimit: 2;
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #f25c05;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-6 {
+        fill: #f25c05;
+        font-size: 14px;
+        font-family: UDDigiKyokashoN-B, UD Digi Kyokasho N-B;
+      }
+    </style>
+  </defs>
+  <g id="logo-sm" transform="translate(-686 -131)">
+    <text id="鮨" class="cls-1" transform="translate(697 154)"><tspan x="0" y="0">鮨</tspan></text>
+    <g id="组_180" data-name="组 180" transform="translate(731.322 133.751)">
+      <ellipse id="椭圆_7" data-name="椭圆 7" class="cls-2" cx="10.522" cy="4.685" rx="10.522" ry="4.685" transform="translate(2.36 0.001)"/>
+      <ellipse id="椭圆_8" data-name="椭圆 8" class="cls-3" cx="3.551" cy="1.581" rx="3.551" ry="1.581" transform="translate(9.331 3.105)"/>
+      <path id="路径_44" data-name="路径 44" class="cls-4" d="M30.081,26.03v2.885c0,2.587-4.715,4.686-10.522,4.686a21.177,21.177,0,0,1-5.412-.667" transform="translate(-6.677 -12.531)"/>
+      <ellipse id="椭圆_9" data-name="椭圆 9" class="cls-2" cx="10.2" cy="4.542" rx="10.2" ry="4.542" transform="translate(27.277 19.413)"/>
+      <path id="路径_49" data-name="路径 49" class="cls-5" d="M3.442,0c1.9,0,3.442.686,3.442,1.533S5.343,3.066,3.442,3.066,0,2.38,0,1.533,1.541,0,3.442,0Z" transform="translate(34.035 22.422)"/>
+      <path id="路径_45" data-name="路径 45" class="cls-4" d="M56.151,35.019V48.141c0,2.507-4.571,4.542-10.2,4.542-4.733,0-8.717-1.439-9.866-3.387a2.251,2.251,0,0,1-.334-1.155V35.019c0-2.507,4.57-4.541,10.2-4.541S56.151,32.513,56.151,35.019Z" transform="translate(-8.473 -11.064)"/>
+      <path id="路径_46" data-name="路径 46" class="cls-4" d="M8.918,28.718a2.33,2.33,0,0,1-.344-1.193V13.99C8.574,11.4,13.289,9.3,19.1,9.3s10.522,2.1,10.522,4.686v5.92" transform="translate(-6.214 -9.304)"/>
+      <path id="路径_47" data-name="路径 47" class="cls-4" d="M48.826,11.859,6,30.081" transform="translate(-6 -9.516)"/>
+      <path id="路径_48" data-name="路径 48" class="cls-4" d="M49.887,17.451l-18.361,2.19" transform="translate(-8.122 -9.981)"/>
+    </g>
+    <text id="TACHIBANA" class="cls-6" transform="translate(686 175)"><tspan x="0" y="0">TACHIBANA</tspan></text>
+  </g>
+</svg>
