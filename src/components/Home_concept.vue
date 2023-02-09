@@ -77,6 +77,7 @@ import conceptProImgFive from "../assets/images/conceptProImgFive.jpg";
   &-text {
     word-break: keep-all;
     line-height: 64px;
+    letter-spacing: 6px;
     @media (max-width: 768px) {
       line-height: 48px;
     }
