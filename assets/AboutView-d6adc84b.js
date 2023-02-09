@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,a as s}from"./index-cc8a6292.js";const a={data(){return{data:{}}},mounted(){}},_={class:"about"},n=s("h1",null,"This is an about page",-1),c=[n];function r(d,i,u,p,l,f){return t(),o("div",_,c)}const m=e(a,[["render",r]]);export{m as default};
